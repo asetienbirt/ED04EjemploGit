@@ -1,8 +1,8 @@
+// Comentario
 package com.mycompany.ud04ejemplogit;
 
 /**
  * Descripcion de la clase
- * @author Aitor
  */
 public class UD04EjemploGit {
 
